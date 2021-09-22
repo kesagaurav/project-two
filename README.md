@@ -11,11 +11,11 @@
      * In this project the customer can place an order the food item with total list
      
   # Technologies Used
-    angular
-    java
-    spring boot
-    junit
-    maven
+    Angular
+    Java
+    Spring Boot
+    Junit
+    Maven
     
     
  # Team Members
