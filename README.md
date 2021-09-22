@@ -1,7 +1,7 @@
 
 
 # Fooderzapp
-  # description
+  # Description
      1.Our project is about the food ordering 
      2.This is an open source project
      3.This project use Spring boot in backend and Angular in front end.
