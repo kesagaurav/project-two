@@ -6,7 +6,7 @@
    and view his food in his cart and also in our app we will using the customer and employee login where the employee can login 
    and once the customer login we will able to see the food items in the
    our menu and he will be adding the fooditem to the cart and we can also view the cart as well and also the cart details 
-   as well where customer can view the food items and add it to the cart
+   as well where customer can view the food items and add it to the cart and also the employee can add the food item 
      
   # Technologies Used
     Angular
