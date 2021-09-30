@@ -2,12 +2,19 @@
 
 # Fooderzapp
   # Description
-   Our project is based on the console based application and  about the food app where the customer can buy 
-   and view his food in his cart and also in our app we will using the customer and employee login where the employee can login 
-   and once the customer login we will able to see the food items in the
-   our menu and he will be adding the fooditem to the cart and we can also view the cart as well and also the cart details 
-   as well where customer can view the food items and add it to the cart and also the employee can add the food item 
-   and also employee can view the food items as well
+    Fooderzapp is based on online food managment system where the users can login/signup as an customer or employee where they can explore
+    different features available .This application is very user friendly. Data stored in this application is secure.The customers can choose from
+    variety of food items and add them to cart. An Employee can add the food items into the foodlist. Employees can also manage the deletion of food items,
+    they can also add food images and food names including price.
+    
+    --> Why use Fooderz?
+    - This application has most updated features compared to existing applications.
+    - An Employee can add and view other Employees.
+    - Customer has a easy access to all the items available.
+    - Managing of data is made simpler.
+    - This application has a capability to move onto a fully functioning web application.
+    
+    
      
   # Technologies Used
     Angular
@@ -22,6 +29,6 @@
   * Himanshu
   * Arnab kar
   * Satish
-  * Grandhi Vijeshwar
+  * Grandhi vijaeswar
   
   
